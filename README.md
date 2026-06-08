@@ -8,7 +8,7 @@ Velkomin í gagnabeiðnaskrá Gagnavinafélagsins.
 
 | Dagsetning | Stjórnvald | Efni | Staða | Slóð |
 | :--- | :--- | :--- | :--- | :--- |
-| 22.12.2025 | Skatturinn | Aðgangur að fyrirtækjaskrá (MVG) | Synjað | [Skoða mál](mal/2025-12-22-skatturinn-fyrirtaekjaskra/README.md) |
+| 22.12.2025 | Skatturinn | Aðgangur að fyrirtækjaskrá (MVG) | Synjað - bíður kæru | [Skoða mál](mal/2025-12-22-skatturinn-fyrirtaekjaskra/README.md) |
 
 ## Stefna um persónuvernd
 

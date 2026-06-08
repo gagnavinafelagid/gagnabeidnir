@@ -2,7 +2,7 @@
 
 **Stjórnvald:** Skatturinn  
 **Dagsetning beiðni:** 22. desember 2025  
-**Staða:** Synjað / Hafnað  
+**Staða:** Synjað - bíður kæru  
 
 ## Um beiðnina
 Gagnavinafélagið óskaði eftir aðgangi að fyrirtækjaskrá Skattsins í heild sinni, á véllæsilegu sniði með magnniðurhali, án endurgjalds. Beiðnin var byggð á lögum um endurnot opinberra upplýsinga nr. 45/2018 og flokkun fyrirtækjaskrár sem Mjög verðmæts gagnasetts (MVG) samkvæmt framkvæmdarreglugerð (ESB) 2023/138.
