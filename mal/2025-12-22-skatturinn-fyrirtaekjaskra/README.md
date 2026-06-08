@@ -19,3 +19,17 @@ Hér eru lykilskjöl málsins, aðskilin frá hversdagslegum tölvupóstsamskipt
 ## Ítarleg samskipti og gögn
 - **[Öll tölvupóstsamskipti](samskipti.md)**: Nákvæm tímalína sem inniheldur allar ítrekanir, fundarboð, fyrirspurnir og svör við þeim í heild sinni (með afmáðum nöfnum almennra starfsmanna).
 - Gögn og afrit samninga munu birtast í `gogn/` möppunni.
+
+## Vinnslusamningar við ytri aðila
+Í samskiptaferlinu kom í ljós að Skatturinn hafði gert vinnslusamninga um aðgang að fyrirtækjaskrá við ákveðna aðila. Gagnavinafélagið óskaði eftir afriti af þeim samningum þann 5. mars. Þann 18. mars afhenti Skatturinn samning við Advania og tók fram að hann væri samhljóða samningum sem gerðir hefðu verið við eftirfarandi aðila: 
+- Creditinfo Lánstraust
+- Ferli ehf.
+- Já hf.
+- Keldan ehf.
+- Origo ehf.
+- Sýn hf.
+- Arango ehf.
+- IT-ráðgjöf
+- Fyrirtækjamiðstöð Íslands ehf.
+
+Afrit af samningnum má finna í [`gogn/`](gogn/) möppunni.
